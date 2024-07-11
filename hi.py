@@ -1,1 +1,1 @@
-print("Hello, Now i am connected to git")
+print("Hello, Now i am connected to gihub")
