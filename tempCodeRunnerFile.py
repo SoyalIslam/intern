@@ -1,0 +1,1 @@
+pass_of=input("ENTER YOUR PASS: ")
